@@ -1,0 +1,32 @@
+body {
+  background-color: #1a8b9d;
+  color: green;
+  display: flex;
+  justify-content: center;
+}
+
+.container-fluid {
+  max-width: 1000px;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.card {
+  background-color: #fff5f5;
+  color: #b2d430;
+  padding: 20px;
+  width: 400px;
+  height: 600px;
+  text-align: center;
+}
+
+.ShareButtons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.ShareButtons .btn {
+  margin: 10px;
+  text-align: center;
+}
