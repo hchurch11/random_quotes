@@ -27,7 +27,7 @@ export default function ShareButtons() {
         id="facebook-share"
         title="Share to facebook!"
         target="_top"
-        href="https://developer.linkedin.com/documents/share-api"
+        href="#"
       >
         facebook
       </button>
